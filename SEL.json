@@ -2,12 +2,12 @@
   "schema_version": 1,
   "versions": [
     {
-      "version": "0.5.6",
+      "version": "0.5.7",
       "game_version": ">=1.4.0",
       "date": "2026-08-08",
       "changelog": "Initial public release. Seoul metropolitan area map with SGIS-based resident and workplace demand, observed metropolitan commuting O/D, airport, university, and hospital special demand, corrected building data and foundations, ocean depth, and bilingual administrative labels.",
-      "download": "https://github.com/cromstar/subwaybuilder-seoul-map/releases/download/v0.5.6/SEL-v0.5.6.zip",
-      "sha256": "abb2315f29fe7f8e9d69cda3b16dff4be0a35f39fc7aeefb239e2a289327cf5e"
+      "download": "https://github.com/cromstar/subwaybuilder-seoul-map/releases/download/v0.5.7/SEL-v0.5.7.zip",
+      "sha256": "4dbd32d23f36bd2c859111c08b3f1d6bf8be3a9f7627cde7f5b9596c33219cf1"
     }
   ]
 }
