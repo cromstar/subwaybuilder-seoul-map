@@ -2,6 +2,14 @@
   "schema_version": 1,
   "versions": [
     {
+      "version": "0.5.8",
+      "game_version": ">=1.4.0",
+      "date": "2026-08-10",
+      "changelog": "Split population groups to a maximum of 200 and restored reverse population links for workplace demand points.",
+      "download": "https://github.com/cromstar/subwaybuilder-seoul-map/releases/download/v0.5.8/SEL-v0.5.8.zip",
+      "sha256": "98962ee43bdb7e073132d948a1314d1c4775bb7b53d3d338b8423ae692cdc33e"
+    },
+    {
       "version": "0.5.7",
       "game_version": ">=1.4.0",
       "date": "2026-08-08",
